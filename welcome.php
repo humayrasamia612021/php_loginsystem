@@ -9,6 +9,7 @@
     <title>Welcome</title>
   </head>
   <body>
+  <h1 class= "text-container">'Welcome to our website'</h1>
     <?php require 'partials/_nav.php'?>
 
 
